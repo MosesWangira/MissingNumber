@@ -59,8 +59,3 @@ public class Main {
     }
 
 }
-
-//copy contents of original array to new array
-//for(int i=0;i<arrayToFindMissingNumber.length;i++){
-//    newArray[i]=arrayToFindMissingNumber[i];
-//   }
